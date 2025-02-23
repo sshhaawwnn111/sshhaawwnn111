@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Shawn.
+## Hi there 👋, my name is Shawn, currently studying at Johns hopkins University.
 
 <!--
 **sshhaawwnn111/sshhaawwnn111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
