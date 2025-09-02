@@ -14,9 +14,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshhaawwnn111&show_icons=true&theme=dark&count_private=true)
+-->
 
 ## 📫 Let's Connect
 
