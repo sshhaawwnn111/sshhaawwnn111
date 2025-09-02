@@ -1,7 +1,9 @@
-Hi, I'm Hsuan (Shawn) Wang! 👋
-CS Master's @ Johns Hopkins University | AI & Software Engineering
-🔬 Currently: Software Developer at Johns Hopkins CCVL Lab (Medical AI)
-🏥 Previously: Software Engineering Intern at Tulane Research (Healthcare AI)
+# Hi, I'm Hsuan (Shawn) Wang! 👋
+
+**CS Master's @ Johns Hopkins University** | **AI & Software Engineering**
+
+🔬 Currently: Software Developer at Johns Hopkins CCVL Lab (Medical AI)  
+🏥 Previously: Software Engineering Intern at Tulane Research (Healthcare AI)  
 🤖 Passionate about: Machine Learning, Computer Vision, Full-Stack Development
 
 ## 🛠️ Tech Stack
@@ -12,9 +14,14 @@ CS Master's @ Johns Hopkins University | AI & Software Engineering
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-📊 GitHub Stats
-[Show Image](https://github-readme-stats.vercel.app/api?username=sshhaawwnn111&show_icons=true&theme=dark&count_private=true)
-📫 Let's Connect
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshhaawwnn111&show_icons=true&theme=dark&count_private=true)
+
+## 📫 Let's Connect
+
 🌐 **Portfolio:** [sshhaawwnn111.github.io/My-Portfolio](https://sshhaawwnn111.github.io/My-Portfolio/)
 
-💡 Open to collaborating on AI/ML projects and healthcare innovation!
+---
+
+💡 *Open to collaborating on AI/ML projects and healthcare innovation!*
