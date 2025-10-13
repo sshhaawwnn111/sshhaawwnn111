@@ -2,9 +2,9 @@
 
 **CS Master's @ Johns Hopkins University** | **AI & Software Engineering**
 
-🔬 Currently: Research Assistant at SCAI Lab (Embodied AI)  
+🤖 Currently: Research Assistant at SCAI Lab (Embodied AI)  
 🏥 Previously: Software Engineering Intern at Tulane Research (Healthcare AI)  
-🤖 Passionate about: Machine Learning, Computer Vision, Full-Stack Development
+🧠 Passionate about: Machine Learning, Computer Vision, Full-Stack Development
 
 ## 🛠️ Tech Stack
 
