@@ -1,10 +1,11 @@
 # Hi, I'm Hsuan (Shawn) Wang! 👋
 
-**CS Master's @ Johns Hopkins University** | **AI & Software Engineering**
+**Software Engineer | M.S. CS Graduate @ Johns Hopkins University**
 
-🤖 Currently: Research Assistant at SCAI Lab (Embodied AI)  
-🏥 Previously: Software Engineering Intern at Tulane Research (Healthcare AI)  
-🧠 Passionate about: Machine Learning, Computer Vision, Full-Stack Development
+🚀 **Actively seeking full-time Software Engineer / Machine Learning Engineer roles**  
+🎓 **Education:** M.S. in CS (Johns Hopkins University) | B.S. in CS (National Yang Ming Chiao Tung University)  
+💼 **Previously:** Software Engineering Intern @ Baltimore Ravens | Software Engineering Intern @ TRIAD Center
+🧠 **Focus:** Full-Stack Systems, Machine Learning, Computer Vision, Distributed & Cloud Architecture
 
 ## 🛠️ Tech Stack
 
