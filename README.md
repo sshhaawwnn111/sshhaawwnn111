@@ -2,10 +2,10 @@
 
 **Software Engineer | M.S. CS Graduate @ Johns Hopkins University**
 
-- 🚀 **Actively seeking full-time Software Engineer / Machine Learning Engineer roles**  
-- 🎓 **Education:** M.S. in CS (Johns Hopkins University) | B.S. in CS (National Yang Ming Chiao Tung University)  
-- 💼 **Previously:** Software Engineering Intern @ Baltimore Ravens | Software Engineering Intern @ TRIAD Center
-- 🧠 **Focus:** Full-Stack Systems, Machine Learning, Computer Vision, Distributed & Cloud Architecture
+🚀 **Actively seeking full-time Software Engineer / Machine Learning Engineer roles**  
+🎓 **Education:** M.S. in CS (Johns Hopkins University) | B.S. in CS (National Yang Ming Chiao Tung University)  
+💼 **Previously:** Software Engineering Intern @ Baltimore Ravens | Software Engineering Intern @ TRIAD Center  
+🧠 **Focus:** Full-Stack Systems, Machine Learning, Computer Vision, Distributed & Cloud Architecture
 
 ## 🛠️ Tech Stack
 
