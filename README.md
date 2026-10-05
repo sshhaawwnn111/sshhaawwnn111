@@ -35,6 +35,3 @@
 
 🌐 **Portfolio:** [sshhaawwnn111.github.io/My-Portfolio](https://sshhaawwnn111.github.io/My-Portfolio/)
 
----
-
-💡 *Open to collaborating on AI/ML projects and healthcare innovation!*
